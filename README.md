@@ -87,21 +87,21 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">RAJPOOT-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>RAJPOOT-MD Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/RAJPOOT-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
        <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/RAJPOOT-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://erfan-vps.vercel.app/" target="_blank">
+      <a href="https://rajpoot-vps.vercel.app/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/RAJPOOT-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/RAJPOOT-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -143,7 +143,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/darkzonemd/RAJPOOT-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -174,8 +174,8 @@
 
 ## 📞 Contact & Support
 
-### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+### Project Owner: RAJPOOT ZADA
+<a href='https://wa.me/+923491962695?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+RAJPOOT-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 

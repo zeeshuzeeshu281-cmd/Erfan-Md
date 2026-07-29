@@ -183,7 +183,7 @@
 <a href="https://chat.whatsapp.com/IcV9YW0LOZbHFKOPZ59GBb?mode=gi_t">
   <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
+<a href="https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39">
   <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 

@@ -61,8 +61,8 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/darkzonemd/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+<a href="https://github.com/darkzonemd/RAJPOOT-MD/fork">
+  <img title="RAJPOOT-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -71,13 +71,13 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href="https://erfan-pair-site.onrender.com" target="_blank">
+<a href="https://zeeshu-pair-site.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF4500?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
 > **2. PAIR CODE SESSION ID**
 
-<a href="https://dark-pair.onrender.com" target="_blank">
+<a href="https://zeeshu-pair.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 

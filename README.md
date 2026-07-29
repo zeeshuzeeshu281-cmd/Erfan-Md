@@ -71,13 +71,13 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href="https://zeeshu-pair-site.onrender.com" target="_blank">
+<a href="https://erfan-pair-site.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF4500?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
 > **2. PAIR CODE SESSION ID**
 
-<a href="https://zeeshu-pair.onrender.com" target="_blank">
+<a href="https://erfan-pair.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
